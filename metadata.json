@@ -1,0 +1,6 @@
+{
+  "name": "PlantAI - AI Plant Disease Detection",
+  "description": "AI-powered agricultural plant leaf disease detection using Vision Transformer (ViT) and PlantVillage dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
